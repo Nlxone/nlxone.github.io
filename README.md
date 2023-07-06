@@ -1,5 +1,2 @@
-# nlxone.github.io
+# nhashih.github.io
 Personal Website, Home
-
-
-Credits!
